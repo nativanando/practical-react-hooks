@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src/",
+    "target": "ES6",
+    "allowUmdGlobalAccess": false,
+    "paths": {
+      "src/*": [
+        "./iotApp"
+      ]
+    }
+  },
+  "include": [
+    "node_modules/*"
+  ]
+}
