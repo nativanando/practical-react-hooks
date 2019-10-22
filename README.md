@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and the big goal is to create a pattern to develope all of the user interface of CELTAB's projects. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and the big goal is to create a pattern to develop react apps. 
 
 ## Available Scripts
 
